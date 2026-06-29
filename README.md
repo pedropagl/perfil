@@ -1,7 +1,7 @@
 # perfil
 # Olá, eu sou Pedro 👋
 
-Desenvolvedor com interesse em dados e aplicações web. Baseado em **Brasília**.
+Desenvolvedor com interesse em dados e aplicações web. Em **Goiânia**.
 
 ## Stack técnica
 
